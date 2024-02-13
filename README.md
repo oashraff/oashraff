@@ -3,7 +3,7 @@ I am a Computer Science student, and I'm passionate about diving into challengin
 
 Skills: C++ / QT / Python / HTML / CSS / JavaScript / p5.js / JSON / AWS / MYSQL
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,qt,py,html,css,js,p5js,was,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,qt,py,html,css,js,p5js,aws,mysql)](https://skillicons.dev)
 
 - 🔭 I’m currently working on a game called, 'The Game Project' using the p5.js library, featuring a dynamic canyon environment where players collect coins, with difficulty scaling based on coin accumulation. 
 - 📫 How to reach me: oomaraashrafaabdou@gmail.com 
