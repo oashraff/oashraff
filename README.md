@@ -75,7 +75,7 @@ Driven **BSc Computer Science** student (First Class Honors) at European Univers
 ## 🚀 Selected Projects
 
 - **[sysmon-ai](https://github.com/oashraff/sysmon-ai)**  
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed"/>  
   Terminal-Based System Monitor with Local AI Anomaly Detection
   
 - **[ai-facies-classification](https://github.com/oashraff/ai-facies-classification)**  
