@@ -26,7 +26,7 @@
 
 ## 🎓 About Me
 Driven **BSc Computer Science** student (First Class Honors) at European Universities in Egypt; passionate about **AI**, **Machine Learning**, and **Full-Stack Development**.  
-Former ***Intern** at Dell Technologies, selected from **12,000+** applicants, and built SpotAI which focused on addressing the growing challenge of AI-generated misinformation.
+Former **Intern** at Dell Technologies, selected from **12,000+** applicants, and built SpotAI which focused on addressing the growing challenge of AI-generated misinformation.
 Former **Intern** at Emirates NBD, where I rotated across different teams of the IT department, including development, system admin, ATM hardware and software support, network engineering, and operations.
 Former **AI Engineer Intern** at Deepkapha AI Lab, where I built an end-to-end seismic facies classification tool with Flask/FastAPI, TensorFlow U-Nets, and CI/CD pipelines.
 
