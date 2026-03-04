@@ -25,15 +25,15 @@
 ---
 
 ## 🎓 About Me
-Driven **BSc Computer Science** student (First Class Honors) at European Universities in Egypt; passionate about **AI**, **Machine Learning**, and **Full-Stack Development**.  
+Driven **BSc Computer Science** student (First Class Honours) at European Universities in Egypt; passionate about **AI**, **Machine Learning**, **Computer Vision**, and **Full-Stack Development**.  
 
-- Former **Intern** at Dell Technologies, selected from **12,000+** applicants, and built SpotAI which focused on addressing the growing challenge of AI-generated misinformation.  
+- Former **Intern** at Dell Technologies, selected from **12,000+** applicants, and built SpotAI, which focused on addressing the growing challenge of AI-generated misinformation.  
 
 - Former **Intern** at Emirates NBD, where I rotated across different teams of the IT department, including development, system admin, ATM hardware and software support, network engineering, and operations.  
 
 - Former **AI Engineer Intern** at Deepkapha AI Lab, where I built an end-to-end seismic facies classification tool with Flask/FastAPI, TensorFlow U-Nets, and CI/CD pipelines.
 
-
+- Enjoy building **creative-coding** and **computer vision** projects — from terminal apps and neural networks to real-time face filters with audio-reactive visuals.
 ---
 
 ## 🤖 Tech Stack
@@ -77,10 +77,15 @@ Driven **BSc Computer Science** student (First Class Honors) at European Univers
 - **[sysmon-ai](https://github.com/oashraff/sysmon-ai)**  
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed"/>  
   Terminal-Based System Monitor with Local AI Anomaly Detection
-  
+
+- **[FaceFilters](https://github.com/oashraff/FaceFilters)**  
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed"/>  
+  Real-time webcam face filters & audio-reactive visuals with p5.js and ml5.js FaceMesh.
+
 - **[ai-facies-classification](https://github.com/oashraff/ai-facies-classification)**  
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed"/>  
   CNN-based seismic facies classification (95.7% accuracy).
+
 - **[ClassifySongGenresFromAudio](https://github.com/oashraff/ClassifySongGenresFromAudio)**  
   <img src="https://img.shields.io/badge/ML-Model-orange" alt="ML Model"/>  
   Logistic Regression & Decision Trees for genre prediction (85.2% / 80.7% accuracy).
@@ -99,15 +104,14 @@ Driven **BSc Computer Science** student (First Class Honors) at European Univers
 
 - **[japan-internet-evolution](https://github.com/oashraff/japan-internet-evolution)**  
   <img src="https://img.shields.io/badge/Visualisation-Node.js-red" alt="Node.js"/>  
-  Interactive timeline of Japan’s internet growth. 
+  Interactive timeline of Japan's internet growth. 
 
 ---
 
 ## 📈 GitHub Highlights
 
 <div align="center">
-  <!-- Overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oashraff&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <!-- Top langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oashraff&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oashraff&theme=radical" alt="GitHub Streak" />
 </div>
+
